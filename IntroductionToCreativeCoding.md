@@ -20,21 +20,19 @@ Lets get started by downloading the software we need.
 * Go to www.processing.org
 * Download to your computer 
 * Install 
-* Open the text editor or IDE (Integrated Development Environment) - or think of it a Walmart of programming. You find everything you need to write your program. 
+* Open the text editor or IDE (Integrated Development Environment) - or think of it as the Walmart of programming. You find everything you need to write your program. 
 
+So once you have everything installed you will open up your Processing program. 
 
+![](/media/ide.png)
 
+There are a few elements of the program structure.
 
-## Key Terms 
+A `variable` is the name you can give a piece of information either a number or text that can be changed at any point during the lifecycle of the program. For example, if you wanted to keep a tally of how many times something runs. 
 
-### variable 
-A variable is the name you can give a piece of information. For example, if you wanted to keep a tally of how many times something runs. 
-
-### type 
-The type is an important concept and can be a little scary at first. 
-
-### function 
-A function is a block of code, or a set of instructions that is reusable. Think of it as a recipe of code. It is an easy way to group sets of instructions together so that it is organized and reusable. 
+The `type` is an important concept and can be a little scary at first. 
+ 
+A `function` is a block of code, or a set of instructions that is reusable. Think of it as a recipe of code. It is an easy way to group sets of instructions together so that it is organized and reusable. 
 
 
 It is for anyone willing to give it a try. There are many tools 
